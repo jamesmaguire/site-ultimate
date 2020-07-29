@@ -10,6 +10,10 @@
 #+HTML_LINK_HOME: index.html
 #+HTML_LINK_UP: index.html
 
+# PWA files
+#+HTML_HEAD: <script type="text/javascript" src="static/pwa.js"></script>
+#+HTML_HEAD: <link rel="manifest" href="static/manifest.webmanifest" />
+
 * Fitness                                                          :noexport:
 - 80-20s
 
