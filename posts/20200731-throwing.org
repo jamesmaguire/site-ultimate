@@ -1,5 +1,5 @@
 #+title: Throwing session
-#+subtitle: 29 July 2020
+#+subtitle: 31 July 2020
 #+setupfile: post.setup
 
 * Description
@@ -40,7 +40,7 @@ The first half of the session will work on the three goals. Then we'll start to 
 | 2 min | Throwing flick with backward pivot                  |
 | 2 min | Throwing backhand with focus on uninterupted breath |
 | 2 min | Alternating throwing with left handed catch         |
-| 2 min |                                                     |
+| 2 min | Alternating two handed flick and backhand           |
 
 ** Part 3 - Dynamic throwing
 Thrower pops dishy and receives in power position to imediate throw to 45\deg upline cutter. Throw has to be timed so that the cutter catches the disc inside a box without speeding up or slowing down.
