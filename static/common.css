@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+body {
+  background: #f8f8f8;
+  
+  font-family: "Open Sans",sans;
+  font-size: 11pt;
+  line-height: 1.4;
+}
+
+#org-div-home-and-up {
+  margin-bottom: 0.6rem;;
+  text-align: center;
+  color: #666;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+a:hover {
+  color: #a00000;
+  text-decoration: underline;
+}
+
+#content {
+  background: #fff;
+  color: #222;
+  padding: 2rem;
+  padding-top: 1rem;
+  
+  border: #eee 1px solid;
+  border-radius: 3px;
+  box-shadow: 5px 5px 20px -5px #eee;
+  
+  width: 60ch;
+  max-width: 80%;
+  margin: auto;
+  margin-bottom: 10%;
+  padding-bottom: 4rem;
+}
+
+h1 {
+  font-size: 180%;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.subtitle {
+  font-size: 10pt;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #666;
+}
+
+h2 {
+  font-size: 110%;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  
+  border-top: #eee 1px solid;
+  padding-top: 1rem;
+}
+
+h3 {
+  font-size: 95%;
+  font-weight: 600;
+  font-style: italic;
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+
+ol {
+  padding-left: 1rem;
+}
+ol li {
+  padding-left: 0.5rem;
+}
+
+ul {
+  padding-left: 0;
+  list-style: none;
+}
+ul li:before {
+  content: "-";
+  padding-right: 0.6rem;
+}
+
+td, th, tr, colgroup, tbody, thead, table {
+  border: none;
+}
+table {
+	margin: 1rem;
+  margin-left: 0.4rem;
+	border-radius: 3px;
+	box-shadow: 0 1px 2px #d1d1d1;
+  width: 90%;
+}
+td, tr, th {
+  padding: 1rem;
+  padding-left: 0.5rem;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  font-size: 95%;
+  min-width: 5ch;
+  vertical-align: middle;
+}
+th.org-left {
+  text-align: left;
+  background: #ddd;
+}
+tr:nth-child(odd) {
+  background: #f8f8f8;
+}
+tr:nth-child(even) {
+  background: #f2f2f2;
+}
+tr:hover {
+  background: #e8e8e8;
+  text-shadow: 1px 1px 0px white;
+}
+td:first-child {
+  width: 6ch;
+}

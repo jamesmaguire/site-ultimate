@@ -1,0 +1,51 @@
+#+title: Throwing session
+#+subtitle: 29 July 2020
+#+setupfile: post.setup
+
+* Description
+A throwing session with the aim of building muscle memory for /easy to catch/ style throws. Session will start with warmup and strengthening exercises. Then moving to throwing session, finishing with throwing to moving targets.
+
+* Instructions
+The goal of this session is for the throw to be easy to catch. Three goals are:
+1. Slow speed
+2. Flat angle
+3. Height and accuracy
+
+The first half of the session will work on the three goals. Then we'll start to incorporate unusual movements and focuses before finishing with a dynamic timing based drill.
+
+* Plan
+** Warmup
+
+| Activity                      |
+|-------------------------------|
+| Field jog                     |
+| Skips, A-steps, lateral skips |
+| Spidermans                    |
+| T-spines                      |
+| Frog leg glute bridges        |
+| Walking glute bridge          |
+
+** Part 1 - Drilling throws
+
+| Time  | Activity |
+|-------+----------|
+| 3 min | Backhand |
+| 3 min | Forehand |
+| 3 min | Scoobers |
+
+** Part 2 - Unusual movements and focuses
+
+| Time  | Activity                                            |
+|-------+-----------------------------------------------------|
+| 2 min | Throwing flick with backward pivot                  |
+| 2 min | Throwing backhand with focus on uninterupted breath |
+| 2 min | Alternating throwing with left handed catch         |
+| 2 min |                                                     |
+
+** Part 3 - Dynamic throwing
+Thrower pops dishy and receives in power position to imediate throw to 45\deg upline cutter. Throw has to be timed so that the cutter catches the disc inside a box without speeding up or slowing down.
+
+| Time  | Activity      |
+|-------+---------------|
+| 5 min | Backhand side |
+| 5 min | Flick side    |
