@@ -1,11 +1,11 @@
 {
-  "theme_color": "#dddddd",
+  "theme_color": "#f8f8f8",
   "background_color": "#f8f8f8",
   "description": "Maj's Ultimate training sessions",
   "display": "standalone",
   "icons": [
     {
-      "src": "appicon/icon.png",
+      "src": "icon/appicon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
