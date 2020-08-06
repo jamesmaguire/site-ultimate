@@ -1,0 +1,66 @@
+#+title: Vert offense
+#+subtitle: 7 August 2020
+#+setupfile: post.setup
+
+* Description
+The goal of this session is to introduce a vertical stack offensive structure and have everyone understand good and bad space on the field. If successful, everyone will understand what to expect in any situation from a vert stack during a game.
+
+Starting with warmup, strength exercises, possesion game, theory session, then cutting drill.
+
+* Theory
+** Good space
+On offense, regardless of the structure (vert, horo, zone O, etc.), we want to keep the disc in the central third of the field on offense. This gives us more space to cut and throw. We want to do our best to keep the disc off the sideline.
+
+[[file:../static/img/good-space.svg]]
+
+Therefore, the handler should have the following priorities:
+1. First, get the disc into the green zone (center of the field), then
+2. If in the green zone, advance the disc forwards, then
+3. Repeat until goal is scored.
+
+** Vert cutting pattern
+The default cutting pattern we will use from a vertical stack will be:
+- Last player in the stack cuts towards the open side;
+- If not open, they will cut across the field to the break side at the front of the stack.
+
+[[file:../static/img/vert-pattern.svg]]
+
+Four stages of the cut:
+1. Push the defender into the cutting lane. This reduces the chance of a pick and can be run as a short deep cut fake. If there is plenty of clear space this can be skipped.
+2. Under cut towards the open side. Goal is to be free of defender to receive a pass.
+3. If the under cut isn't thrown, the cutter will cut across toward the break side. This should open space from the defender and give the thrower a second option.
+4. If not reveived, the cutter now becomes the new front of stack.
+
+Some notes:
+- Between steps 2 and 3, the next back of stack player should start their cut.
+- If the disc advances, the stack needs to keep moving downfield.
+- This pattern can continue indefinitely.
+- Deep cuts should develop from the break side to avoid blocking the open side. Be opportunistic here.
+
+* Plan
+** Entree
+
+| Activity                      |
+|-------------------------------|
+| Field jog                     |
+| Skips, A-steps, lateral skips |
+| T-spines                      |
+| Glute bridge step throughs    |
+
+** Main
+
+| Time   | Activity                        |
+|--------+---------------------------------|
+| 10 min | Possession (4 v 4 size)         |
+| 10 min | Theory                          |
+| 20 min | Cutting drill base              |
+| ...    | Cutting dril w/ defender        |
+| ...    | Cutting drill w/ player in lane |
+
+Cutting drill: One thrower+marker, make cut, defender keeps up (80% speed) then receive throw on slashing cut.
+
+** Dessert
+
+| Time   | Activity          |
+|--------+-------------------|
+| 60 min | King/Queen league |

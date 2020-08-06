@@ -22,3 +22,4 @@
 | Date     | Session  |
 |----------+----------|
 | 31/07/20 | [[file:posts/20200731-throwing.org][Throwing]] |
+| 07/08/20 | [[file:posts/20200807-vertical.org][Vert offense]] |
