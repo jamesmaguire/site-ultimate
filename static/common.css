@@ -72,20 +72,11 @@ h3 {
   margin-bottom: 0;
 }
 
-ol {
+ol, ul {
   padding-left: 1rem;
 }
-ol li {
+li {
   padding-left: 0.5rem;
-}
-
-ul {
-  padding-left: 0;
-  list-style: none;
-}
-ul li:before {
-  content: "-";
-  padding-right: 0.6rem;
 }
 
 td, th, tr, colgroup, tbody, thead, table {
