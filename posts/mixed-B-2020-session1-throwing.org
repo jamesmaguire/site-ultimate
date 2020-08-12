@@ -1,5 +1,5 @@
 #+title: Throwing session
-#+subtitle: 31 July 2020
+#+subtitle: Training session 1
 #+setupfile: post.setup
 
 * Description

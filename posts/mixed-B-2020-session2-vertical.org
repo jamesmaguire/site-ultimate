@@ -1,5 +1,5 @@
 #+title: Vert offense
-#+subtitle: 7 August 2020
+#+subtitle: Training session 2
 #+setupfile: post.setup
 
 * Description
