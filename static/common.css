@@ -115,3 +115,7 @@ tr:hover {
 td:first-child {
   width: 6ch;
 }
+table a {
+  color: #a00000;
+  text-decoration: none;
+}
