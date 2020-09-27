@@ -7,12 +7,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="96mm"
-   height="96mm"
-   viewBox="0 0 96 96.000001"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46666"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -21,29 +20,7 @@
    inkscape:export-xdpi="135.46666"
    inkscape:export-ydpi="135.46666">
   <defs
-     id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient897">
-      <stop
-         style="stop-color:#47000f;stop-opacity:1"
-         offset="0"
-         id="stop893" />
-      <stop
-         style="stop-color:#333333;stop-opacity:1"
-         offset="1"
-         id="stop895" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient897"
-       id="linearGradient899"
-       x1="1.3229165"
-       y1="-40.369011"
-       x2="94.5448"
-       y2="52.367447"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs2" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -51,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99999999"
-     inkscape:cx="201.07303"
-     inkscape:cy="203.89198"
+     inkscape:zoom="1.4142135"
+     inkscape:cx="403.66676"
+     inkscape:cy="154.26092"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -69,7 +46,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:snap-others="false" />
+     inkscape:snap-others="false"
+     units="px" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -86,23 +64,38 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="BG"
-     transform="translate(0,41.934631)"
-     style="display:inline">
-    <path
-       style="fill:url(#linearGradient899);stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 48.000002,52.776151 c -36.220621,0 -46.9416688,-10.81507 -46.9416688,-46.7107864 0,-35.8957166 10.7210478,-46.7107876 46.9416718,-46.7107886 36.220621,-1e-6 46.941671,10.81507 46.941671,46.710787 0,35.895717 -10.72105,46.710788 -46.941674,46.710788 z"
-       id="path835-6"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+     transform="translate(0,81.401292)"
+     style="display:none">
+    <rect
+       style="opacity:1;fill:#450613;fill-opacity:1;stroke:none;stroke-width:1.43280232;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.43280229, 4.29840684;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect936"
+       width="135.46666"
+       height="135.46666"
+       x="0"
+       y="-81.401291" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Safe area"
+     style="display:none">
+    <ellipse
+       transform="translate(0,81.401293)"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#bbbbbb;stroke-width:0.67418551;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.67418557, 2.02255667;stroke-dashoffset:0;stroke-opacity:1"
+       id="path931"
+       cx="67.728996"
+       cy="-13.675816"
+       rx="53.849499"
+       ry="53.859467" />
   </g>
   <g
      style="display:inline"
-     transform="translate(-0.89294795,-201.07832)"
+     transform="translate(-0.89294795,-161.61166)"
      id="g891"
      inkscape:groupmode="layer"
      inkscape:label="FG">
     <g
-       transform="matrix(1.3496572,0,0,1.3496572,133.67442,130.56835)"
+       transform="matrix(1.9023752,0,0,1.9023752,189.32139,56.268901)"
        id="g887">
       <path
          style="fill:#aaaaaa;fill-opacity:1;stroke-width:0.26458335"
