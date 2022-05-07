@@ -1,0 +1,4 @@
+#+title: Zone session
+#+setupfile: post.setup
+
+- Zone chess (one team moves, then other team covers)

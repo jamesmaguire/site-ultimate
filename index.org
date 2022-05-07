@@ -25,6 +25,11 @@
 | 10/07/20 | Scrimmage 2          |
 | 17/07/20 | Selection 1 (A team) |
 | 24/07/20 | Selection 2 (A team) |
-| 31/07/20 | [[file:posts/mixed-B-2020-session1-throwing.org][Throwing]]             |
+| 31/07/20 | [[file:posts/mixed-B-2020-throwing.org][Throwing]]             |
 | 07/08/20 | +Rain out+             |
-| 14/08/20 | [[file:posts/mixed-B-2020-session2-vertical.org][Vert offense]]         |
+| 14/08/20 | +Rain out+             |
+| /tbd/      | [[file:posts/mixed-B-2020-vertical.org][Vert offense]]         |
+| /tdb/      | [[file:posts/mixed-B-2020-dump.org][Dump]]                 |
+| /tdb/      | [[file:posts/mixed-B-2020-horo.org][Horo offense]]         |
+| /tdb/      | [[file:posts/mixed-B-2020-zone.org][Zone D]]               |
+| /tdb/      | [[file:posts/mixed-B-2020-match.org][Match D (last back)]]  |
